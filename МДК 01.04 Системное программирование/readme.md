@@ -63,3 +63,5 @@ $ git log - выводим информацию о фиксации
 
 подтверждения git
 
+![image](https://github.com/son4ez1/6sem/assets/113089517/a7bbf279-9f71-42ac-a2b4-64bfcf8a724c)
+
