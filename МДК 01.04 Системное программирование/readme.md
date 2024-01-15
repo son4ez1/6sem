@@ -56,3 +56,7 @@ git config —global —unset core.gitproxy
 **Для фиксации версии нужно указать ее название , для этого создается сообщение**
 
 $ git commit -m "G-02: Initial" 
+
+$ git log - выводим информацию о фиксации
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/82a4cc08-700f-4535-927c-eff91d650ac3)
