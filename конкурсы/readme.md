@@ -4,4 +4,5 @@
 ![image](https://github.com/son4ez1/6sem/assets/113089517/bc2fb140-6830-463b-ad4f-056012ce8291)
 ![image](https://github.com/son4ez1/6sem/assets/113089517/ba33a20d-4c4c-4c47-a589-caa3e5f34cbb)
 ![image](https://github.com/son4ez1/6sem/assets/113089517/82237f81-2a22-4da7-8c10-b862e006e6a0)
+[траектория .pdf](https://github.com/son4ez1/6sem/files/13975928/default.pdf)
 
