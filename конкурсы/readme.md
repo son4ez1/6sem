@@ -6,3 +6,5 @@
 ![image](https://github.com/son4ez1/6sem/assets/113089517/82237f81-2a22-4da7-8c10-b862e006e6a0)
 [траектория .pdf](https://github.com/son4ez1/6sem/files/13975928/default.pdf)
 
+[сертификат траектория.pdf](https://github.com/son4ez1/6sem/files/13975953/default.pdf)
+
