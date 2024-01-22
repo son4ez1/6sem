@@ -47,3 +47,7 @@
 
 ![image](https://github.com/son4ez1/6sem/assets/113089517/c899cd26-e986-43ce-a37b-a96ca81c4c97)
 
+**Пример деффекта:**
+1. Некорректные требования: прямоугольный квадрат, круглый телефон
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/7a657f30-bdc2-44ba-b43d-3df1ee54d036)
