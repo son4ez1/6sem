@@ -9,3 +9,4 @@
 [сертификат траектория.pdf](https://github.com/son4ez1/6sem/files/13975953/default.pdf)
 
 ![photo1705908012](https://github.com/son4ez1/6sem/assets/113089517/6e14c238-928b-4ba9-9a38-07374ddf214f)
+<img width="1552" alt="Снимок экрана 2024-01-23 в 21 35 50" src="https://github.com/son4ez1/6sem/assets/113089517/4bc526cc-ad54-408d-b9cd-7b60a6ece221">
