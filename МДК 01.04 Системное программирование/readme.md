@@ -140,10 +140,22 @@ mkdir - создает директорию
 
 **Устройства:**
 1. символьные (мышка, клавиатура)
-2. блочные (флешки) 
-![image](https://github.com/son4ez1/6sem/assets/113089517/2c36e684-79fd-4e39-a09d-39b1f93ad10e)
-![image](https://github.com/son4ez1/6sem/assets/113089517/bcd668b7-3127-4cae-9b33-a32e63373554)
+   ![image](https://github.com/son4ez1/6sem/assets/113089517/2aa30af1-f7c7-4824-ba20-f770c5cf35c5)
+![image](https://github.com/son4ez1/6sem/assets/113089517/28a1d7a2-e4f4-4d12-9785-0a186c1933ce)
+
+**c** - cимвольные
+
+3. блочные (флешки) 
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/211fd3b6-2d4e-4e67-9ad8-5308819d6c37)
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/ed4e1061-0272-4adb-b560-05fe10249bf5)
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/db22f090-db52-498e-a5c8-058e19f9326a)
+
+
+**b**  - блок
 
 Пытались создать флешку
 
-![image](https://github.com/son4ez1/6sem/assets/113089517/fe94910f-ce87-41c7-80bd-7877feb8f79e)
+
