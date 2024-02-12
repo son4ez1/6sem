@@ -113,4 +113,6 @@ b. Шахматная доска (3.. на 10)
    ![image](https://github.com/son4ez1/6sem/assets/113089517/b342bb81-60dc-4ffc-bd5a-4334ae32c0eb)
 
    ![image](https://github.com/son4ez1/6sem/assets/113089517/1dbc6412-1547-4e9e-9e8d-9db5492bc391)
+   ![image](https://github.com/son4ez1/6sem/assets/113089517/77b000de-671d-488e-957d-80bfb1fb2190)
+
 
