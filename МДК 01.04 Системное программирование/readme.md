@@ -1,4 +1,4 @@
-# ЛК1 15.01.24
+![image](https://github.com/son4ez1/6sem/assets/113089517/ef8b5a67-0fc9-4bc7-a3d5-b117ff592355)# ЛК1 15.01.24
 [Установка GIT BASH](https://git-scm.com/downloads)
 
 **Git bash** -команды для работы с GIT из терминала
@@ -135,3 +135,15 @@ mkdir - создает директорию
 5)rm -r home/шпилька/ksss
 
 ![image](https://github.com/son4ez1/6sem/assets/113089517/69df0e96-06a3-458f-8f27-89fc98f39ff9)
+
+---
+
+**Устройства:**
+1. символьные (мышка, клавиатура)
+2. блочные (флешки) 
+![image](https://github.com/son4ez1/6sem/assets/113089517/2c36e684-79fd-4e39-a09d-39b1f93ad10e)
+![image](https://github.com/son4ez1/6sem/assets/113089517/bcd668b7-3127-4cae-9b33-a32e63373554)
+
+Пытались создать флешку
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/fe94910f-ce87-41c7-80bd-7877feb8f79e)
