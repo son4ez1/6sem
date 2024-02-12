@@ -82,3 +82,51 @@ $ git log - выводим информацию о фиксации
 
    ![image](https://github.com/son4ez1/6sem/assets/113089517/3292bb86-0f7b-4c63-92e6-5dad9ea413cd)
 
+ЛК 05.02.24 Работа с файлами
+Создание
+Перенесение
+Редактирование
+Удаление
+Обычный или regular файл
+
+1)прикоснуться kstr.txt
+
+2)nano kstr.txt/home/stud/'Рабочий стол'
+
+3)mv kstr.txt/home/stud/'Рабочий стол'
+
+4)rm /home/stud/'Рабочий стол'/kstr.txt
+
+5)cat /home/stud/'Рабочий стол'/kstr.txt
+
+mv - перемешение
+
+rm - удалить(каталог можно удалить только с -r, тк там внутри файлы)
+
+ls - просмотреть
+
+-r - рекурсия
+
+cat - чтение
+
+mkdir - создает директорию
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/5c0711ed-6f1c-4ebd-a03a-4ca0ca13ea58)
+![image](https://github.com/son4ez1/6sem/assets/113089517/e7947672-3ba0-46ea-b2e3-5070b9254bd1)
+![image](https://github.com/son4ez1/6sem/assets/113089517/b898a1fb-001b-4ec2-a1da-84a4a81c977c)
+![image](https://github.com/son4ez1/6sem/assets/113089517/40f0b39c-4311-4b0e-8f6a-256efecc9367)
+
+
+Папка (directory)
+
+1)mkdir /главная страница/ шпилька/ kss
+
+2)mkdir /главная страница/stud/kss главная страница/stud/ksss
+
+3)коснитесь home/stud/ksss/mayy
+
+4) коснитесь "Домой"/stud/ksss
+
+5)rm -r home/шпилька/ksss
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/69df0e96-06a3-458f-8f27-89fc98f39ff9)
