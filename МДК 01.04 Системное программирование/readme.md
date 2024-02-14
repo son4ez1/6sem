@@ -92,6 +92,10 @@ $ git log - выводим информацию о фиксации
 
 4.Удаление
 
+![image](https://github.com/son4ez1/6sem/assets/113089517/adafd637-ea10-4c34-b8fb-10a2f07cda96)
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/e3059ff8-e6b7-44fd-912b-eae8932143e6)
+
 **Обычный или regular файл**
 
 1)прикоснуться kstr.txt
