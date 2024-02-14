@@ -187,4 +187,11 @@ $ git log - выводим информацию о фиксации
 ![image](https://github.com/son4ez1/6sem/assets/113089517/50dd59ee-3bc3-4d40-afca-b9acc83c09e6)
 ![image](https://github.com/son4ez1/6sem/assets/113089517/741c2c36-d286-48c0-a266-8a3e57d8fea4)
 
+![image](https://github.com/son4ez1/6sem/assets/113089517/a6e15a71-427f-49a7-8406-f396a89b0acd)
+![image](https://github.com/son4ez1/6sem/assets/113089517/e5a85f8e-72b2-4559-8292-c02506914c9b)
+![image](https://github.com/son4ez1/6sem/assets/113089517/328b5e3c-8881-4819-be8d-97273713c349)
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/991af1e9-82ae-4a58-a8c5-8fb35e5c09a2)
+
+
 
