@@ -96,6 +96,9 @@ $ git log - выводим информацию о фиксации
 
 ![image](https://github.com/son4ez1/6sem/assets/113089517/e3059ff8-e6b7-44fd-912b-eae8932143e6)
 
+![image](https://github.com/son4ez1/6sem/assets/113089517/fcf1bb31-15e7-4a4e-b858-e8d5c511cbb3)
+
+
 **Обычный или regular файл**
 
 1)прикоснуться kstr.txt
