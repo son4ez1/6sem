@@ -1,4 +1,4 @@
-![image](https://github.com/son4ez1/6sem/assets/113089517/ef8b5a67-0fc9-4bc7-a3d5-b117ff592355)# ЛК1 15.01.24
+# ЛК1 15.01.24
 [Установка GIT BASH](https://git-scm.com/downloads)
 
 **Git bash** -команды для работы с GIT из терминала
