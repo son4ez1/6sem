@@ -180,3 +180,6 @@ $ git log - выводим информацию о фиксации
 
 ![image](https://github.com/son4ez1/6sem/assets/113089517/45491995-f405-4669-b636-acb7670eae75)
 
+![image](https://github.com/son4ez1/6sem/assets/113089517/c017b611-5439-49da-aa48-f7c6549914c0)
+
+
