@@ -140,6 +140,7 @@ $ git log - выводим информацию о фиксации
 
 **Устройства:**
 1. символьные (мышка, клавиатура)
+   
    ![image](https://github.com/son4ez1/6sem/assets/113089517/2aa30af1-f7c7-4824-ba20-f770c5cf35c5)
 ![image](https://github.com/son4ez1/6sem/assets/113089517/28a1d7a2-e4f4-4d12-9785-0a186c1933ce)
 
