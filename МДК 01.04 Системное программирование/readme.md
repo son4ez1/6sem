@@ -204,6 +204,17 @@ $ git log - выводим информацию о фиксации
 3. 1000 - номер группы пользователя
 4. Student - название группы
 5. /home/stud: - домашняя директория пользователя
-6. /bin/bash - открыть терминал 
+6. /bin/bash - терминал пользователя
 
+создали пользователя:
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/07c96432-d785-45ef-8483-69d23670f0a5)
+
+![image](https://github.com/son4ez1/6sem/assets/113089517/a30b52b0-797d-4286-aa4a-837b338c7c22)
+
+создали пароль для sonya
+![image](https://github.com/son4ez1/6sem/assets/113089517/29715272-0475-421e-9265-462a2b07f50b)
+
+зашли в дебиан подж новым пользователем
+![image](https://github.com/son4ez1/6sem/assets/113089517/cd494749-83aa-4d5a-8a86-876f81f8b072)
 
