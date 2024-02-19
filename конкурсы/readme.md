@@ -14,3 +14,5 @@
 [ЛОГОМАШИНА](https://drive.google.com/drive/folders/1x8IHy4DXdmkt4LJ0lDHBWVQDZ4l3auQk?usp=sharing)
 
 ![ab25f4e6-fa67-49d0-a74e-74bf585fa907](https://github.com/son4ez1/6sem/assets/113089517/1e1cbec9-32eb-4f6c-8ddf-85684be6b8bd)
+
+![photo1708324844](https://github.com/son4ez1/6sem/assets/113089517/57c0306b-95f4-4afe-a5fe-73eb0736da02)
