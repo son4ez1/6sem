@@ -218,3 +218,6 @@ $ git log - выводим информацию о фиксации
 зашли в дебиан подж новым пользователем
 ![image](https://github.com/son4ez1/6sem/assets/113089517/cd494749-83aa-4d5a-8a86-876f81f8b072)
 
+![image](https://github.com/son4ez1/6sem/assets/113089517/29eb6c2f-1d04-48f8-9cbb-0bf1703d4242)
+![image](https://github.com/son4ez1/6sem/assets/113089517/0e47ba78-8273-4f37-9a9a-8ec6ef50eb79)
+
