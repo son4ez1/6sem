@@ -15,4 +15,5 @@
 
 ![ab25f4e6-fa67-49d0-a74e-74bf585fa907](https://github.com/son4ez1/6sem/assets/113089517/1e1cbec9-32eb-4f6c-8ddf-85684be6b8bd)
 
-![photo1708324844](https://github.com/son4ez1/6sem/assets/113089517/57c0306b-95f4-4afe-a5fe-73eb0736da02)
+![photo1708325140](https://github.com/son4ez1/6sem/assets/113089517/4e23087c-aa7f-483b-85ca-7f80c05f7b08)
+
