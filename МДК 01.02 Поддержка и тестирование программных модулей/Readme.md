@@ -1,4 +1,5 @@
 # [Cкиллбокс тестирование](https://docs.google.com/document/d/16Q1vg2croBUtM-QW9WPAMvOG8mnSIQv1Ax2eLJe5XOg/edit?usp=sharing)
+# [Яндекс Практикум](https://docs.google.com/document/d/1YOFsRBncrfYuusGft9X2iil-FAMgzUb4vIHf_uX3jus/edit?usp=sharing)
 # ЛК1 22.01.24 Основы тестирования
 ![image](https://github.com/son4ez1/6sem/assets/113089517/f032cd7f-cf0a-427b-97a2-7e98b3ae541c)
 
