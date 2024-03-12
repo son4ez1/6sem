@@ -246,6 +246,83 @@ $ git log - выводим информацию о фиксации
 ![310383945-b163db35-a0e5-4634-af8d-038872ef5e4d](https://github.com/son4ez1/6sem/assets/113089517/023741a9-3111-43fa-a5e0-8f321b6b4c85)
 
 
+# ЛК4 04.03.24 Структура памяти процесса
+
+![309723313-aec0d04a-b2b9-427e-9c95-3aaa6b4e44b3](https://github.com/son4ez1/6sem/assets/113089517/f13a4cde-4d79-4fbe-86c8-cc1bb10504d0)
+
+![309725210-96e1a93f-619a-4cbe-9165-1b536f677ac6](https://github.com/son4ez1/6sem/assets/113089517/728dcb50-58c6-4437-b538-4626c6fbbab1)
+
+![309731370-3d72fb07-40fe-4e8c-9a1a-dc6941bdc39f](https://github.com/son4ez1/6sem/assets/113089517/5de2cd99-6470-48c7-8144-063eed9e026f)
+
+![309731432-83fa1a6e-158b-4b61-99b6-a40c601a9361](https://github.com/son4ez1/6sem/assets/113089517/b3225ea2-d47e-4068-aec0-d2593f228828)
+
+![309732444-8195be3b-28b1-40e5-82d6-74b5cab05dcc](https://github.com/son4ez1/6sem/assets/113089517/e7f8f1c1-e5c7-4d74-8b92-355d0b8db382)
+
+![309732444-8195be3b-28b1-40e5-82d6-74b5cab05dcc-2](https://github.com/son4ez1/6sem/assets/113089517/b893fd9e-c55a-493e-970b-20afeae1e249)
+
+**PID** - номера поцесса (на винде в диспетчере задач смотрим)
+
+![309734470-a98b6c71-f6e3-49a9-a88f-eff1070a8ab1](https://github.com/son4ez1/6sem/assets/113089517/c6167453-1826-488e-a67e-4478074caf5e)
+
+![309734910-31f6269f-0329-4084-af26-75ad2d1f2919](https://github.com/son4ez1/6sem/assets/113089517/aff30091-5a01-4e22-8958-491a68e0cdc7)
+
+![309735194-de6ff1c7-40f9-44b6-8501-7daace1c8be8](https://github.com/son4ez1/6sem/assets/113089517/5ec49d24-0457-44ab-8647-dc0c1de5bb04)
+
+Память запоняется в определенные ячейки(разные)
+
+![309739580-77589065-f271-45c2-80c9-b8910c4c9bdb](https://github.com/son4ez1/6sem/assets/113089517/b2974fc4-0ef6-4cd2-949f-e4340ffe8819)
+
+**Библиотеки:**
+
+![309741013-d7c43635-31bb-42a3-ad8f-5b207be28f54](https://github.com/son4ez1/6sem/assets/113089517/d4e614fd-6fd0-428b-a4a0-40cb62443a60)
+
+Область данных и текст(код):
+
+![309741193-671f9271-4922-4e5b-bf3b-8dc128da2fb1](https://github.com/son4ez1/6sem/assets/113089517/1768b093-3d75-48ce-b46f-9adfedd61833)
+
+![309742585-e306985d-2954-4fdf-b994-f1946d369af3](https://github.com/son4ez1/6sem/assets/113089517/9d199b8c-7e81-4b1a-bb87-9d848ff3f2d3)
+
+![309743702-11877113-51d8-42d3-9d61-af83a04bb345](https://github.com/son4ez1/6sem/assets/113089517/4e539444-9e98-48ea-8949-4800d9482382)
+
+![309743955-3a0573ff-f1df-473f-b76d-3c9910715277](https://github.com/son4ez1/6sem/assets/113089517/7a3099ac-4c9c-4fd3-977a-a4e47930e2dd)
+
+![310398372-5dfad536-aac3-48f9-83d8-7ec9cd48b3cb](https://github.com/son4ez1/6sem/assets/113089517/98288bdc-1eab-4129-98d1-a892d75e2445)
+
+![310405908-bb3ce670-1313-4614-9a99-fd8fda8a88bd](https://github.com/son4ez1/6sem/assets/113089517/6b77173f-c07e-4eae-8ace-c130169b12cb)
+
+![310406136-8ea8d718-5952-484d-9ccd-63b8be08fdc8](https://github.com/son4ez1/6sem/assets/113089517/0c519a85-0812-4ba7-925b-0f6b5b6847c3)
+
+![310406062-28587c19-1c89-468b-bcac-743190dad1f6](https://github.com/son4ez1/6sem/assets/113089517/fb2c9d8f-6efe-4653-ad91-769c1e0f2244)
+
+![310406501-048b9bfa-6c7b-4ddd-ac0a-0ff3129a0a6f](https://github.com/son4ez1/6sem/assets/113089517/f4e5c7e3-3e78-4dce-862b-31fe6a85d854)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
