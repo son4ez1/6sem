@@ -222,8 +222,31 @@ $ git log - выводим информацию о фиксации
 ![image](https://github.com/son4ez1/6sem/assets/113089517/0e47ba78-8273-4f37-9a9a-8ec6ef50eb79)
 
 ![310381967-5eccff94-37df-4d46-93d5-85d0516f21db](https://github.com/son4ez1/6sem/assets/113089517/f8e6eba5-c59d-4d11-9366-a98b5550f433)
+
 ![310382045-0db71c7b-6898-436f-9e3b-e9a76b06de1e](https://github.com/son4ez1/6sem/assets/113089517/3b42bcb7-1ce7-4b3a-81ac-f044ae9daee4)
+
 ![310382205-c7baa1f1-c565-4a0c-8ebd-19c40dbbca18](https://github.com/son4ez1/6sem/assets/113089517/1b263652-0190-432d-9543-578c442e9f98)
+
 ![310382285-b6414a5c-e5fc-4aeb-9ce6-3006eecf98c2](https://github.com/son4ez1/6sem/assets/113089517/dd2c6b1f-c5a8-4155-a717-e194cd4db0bb)
+
 ![310382337-45714afb-bd26-43e9-8258-9353002b4fe9](https://github.com/son4ez1/6sem/assets/113089517/c53c1fd4-4e01-4c6a-ad3a-f4867559d1e8)
+
+![310380717-861e9a25-1bb5-4d5f-8625-e3f700e9649d](https://github.com/son4ez1/6sem/assets/113089517/e2bb43e0-5f51-4095-83bd-d135e4d5ba18)
+
+![310380787-8b35d716-c84f-41fa-93f4-a6fb654df710](https://github.com/son4ez1/6sem/assets/113089517/e2bf5fd4-1122-4b2c-85d9-54537ed19096)
+
+![310380885-4a87bb05-ac7f-42af-9781-c9c960fd84df](https://github.com/son4ez1/6sem/assets/113089517/7f23a283-68ac-4463-825a-d258674d7d06)
+
+![310381260-9d795aa5-49a5-45ac-8e41-93934fe7d832](https://github.com/son4ez1/6sem/assets/113089517/3178b985-9e8f-4b81-80c8-eaef0a4e9985)
+
+![310381451-e9e07fee-bfcf-4ef0-876a-a43798d016c2](https://github.com/son4ez1/6sem/assets/113089517/bc45c699-8fd8-4127-8a44-02b84429a2c4)
+
+![310383858-f6e092f9-0c95-4150-9977-665963df7337](https://github.com/son4ez1/6sem/assets/113089517/f59f80b6-24c3-4636-bd26-13d6a4cf2646)
+
+![310383945-b163db35-a0e5-4634-af8d-038872ef5e4d](https://github.com/son4ez1/6sem/assets/113089517/023741a9-3111-43fa-a5e0-8f321b6b4c85)
+
+
+
+
+
 
