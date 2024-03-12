@@ -310,27 +310,43 @@ $ git log - выводим информацию о фиксации
 8. Состояние процесса
 9. Аппаратный контекст (То что определяься компьютером)
 
+![311677518-e815d141-22b8-4194-8846-42907d916483](https://github.com/son4ez1/6sem/assets/113089517/05cdcdf1-46ac-4039-bdb6-65f17bc39e3b)
 
+Состяние процесса
 
+![311677658-cd5cfc1d-92a2-4d4c-adda-6682f0b6ca21](https://github.com/son4ez1/6sem/assets/113089517/81dd661f-d159-4c41-badf-e8d9d088ed05)
 
+Первый процесс init
 
+![311678846-b4c88025-e5b0-40ad-a4b1-5cb31145a0e2](https://github.com/son4ez1/6sem/assets/113089517/9288412c-9bbe-461f-8459-a2e4ec8a60c3)
 
+**Соcтояние процессса:** Ready
 
+![311681794-a6bc2b96-59c6-4d75-9f24-6de5f4d4096c](https://github.com/son4ez1/6sem/assets/113089517/b031fcb0-0bda-4bc7-a6f3-d13e7e460854)
 
+**Соcтояние процессса:** Running
 
+![311681747-1b1ec900-73c3-4f8d-bd09-b78aafa0e492](https://github.com/son4ez1/6sem/assets/113089517/0dd347d8-504e-441b-baa6-d51bbdc645f8)
 
+**Соcтояние процессса:** Sleeping
 
+![311686819-4a0d4a9b-e92e-4ab4-ae4c-96ed0ee0206e](https://github.com/son4ez1/6sem/assets/113089517/00684af3-c10e-4a9f-8d77-f6e9875e5f92)
 
+**Соcтояние процессса:** Zombie
 
+![311686851-bad08e57-3053-4899-9b6d-647ba97e5947](https://github.com/son4ez1/6sem/assets/113089517/2ffe77c1-8a73-4816-8abf-cd384f2dc58e)
 
+**Смерть процесса**
 
+1. exit() или kill() - останавливает поцесс
 
+2. После завершения род.процессса, дочерний переходит либо в состояние зомби, либо к другому род.процссу
 
+![311686330-7bae567d-c610-4bb2-a5aa-5cfecf5dd6e0](https://github.com/son4ez1/6sem/assets/113089517/2def446f-98d9-4044-8228-64aebc67f804)
 
+**Сигналы**
 
-
-
-
+![311687151-642f829f-25bc-4247-b937-39563f9f4031](https://github.com/son4ez1/6sem/assets/113089517/703d3a55-aebc-440f-8527-a779c4042c81)
 
 
 
