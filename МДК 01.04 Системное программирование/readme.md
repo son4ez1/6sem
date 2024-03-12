@@ -215,9 +215,15 @@ $ git log - выводим информацию о фиксации
 создали пароль для sonya
 ![image](https://github.com/son4ez1/6sem/assets/113089517/29715272-0475-421e-9265-462a2b07f50b)
 
-зашли в дебиан подж новым пользователем
+зашли в дебиан под новым пользователем
 ![image](https://github.com/son4ez1/6sem/assets/113089517/cd494749-83aa-4d5a-8a86-876f81f8b072)
 
 ![image](https://github.com/son4ez1/6sem/assets/113089517/29eb6c2f-1d04-48f8-9cbb-0bf1703d4242)
 ![image](https://github.com/son4ez1/6sem/assets/113089517/0e47ba78-8273-4f37-9a9a-8ec6ef50eb79)
+
+![310381967-5eccff94-37df-4d46-93d5-85d0516f21db](https://github.com/son4ez1/6sem/assets/113089517/f8e6eba5-c59d-4d11-9366-a98b5550f433)
+![310382045-0db71c7b-6898-436f-9e3b-e9a76b06de1e](https://github.com/son4ez1/6sem/assets/113089517/3b42bcb7-1ce7-4b3a-81ac-f044ae9daee4)
+![310382205-c7baa1f1-c565-4a0c-8ebd-19c40dbbca18](https://github.com/son4ez1/6sem/assets/113089517/1b263652-0190-432d-9543-578c442e9f98)
+![310382285-b6414a5c-e5fc-4aeb-9ce6-3006eecf98c2](https://github.com/son4ez1/6sem/assets/113089517/dd2c6b1f-c5a8-4155-a717-e194cd4db0bb)
+![310382337-45714afb-bd26-43e9-8258-9353002b4fe9](https://github.com/son4ez1/6sem/assets/113089517/c53c1fd4-4e01-4c6a-ad3a-f4867559d1e8)
 
